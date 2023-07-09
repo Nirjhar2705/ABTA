@@ -1,0 +1,215 @@
+body{
+    margin: 20px;
+}
+
+#bio{
+    height: 210px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.1), -8px -8px 8px rgba(0,0,0,0.1);
+}
+
+#satbio{
+    width: 1116px;
+    padding-top: 55px;
+    padding-left: 15px;
+    text-decoration: none;
+}
+
+#satpic{
+    position: absolute;
+    height: 190px;
+    width: 190px;
+    margin-left: 1128px;
+    margin-top: 7px;
+    margin-right: 10px;
+    border-radius: 10px;
+}    
+
+#sat{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.1), 8px 8px 8px rgba(0,0,0,0.1);
+}
+
+#bdy{
+    border-radius: 10px;
+    width: 100%;
+    height: 1000px;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.1), -8px -8px 8px rgba(0,0,0,0.1);
+    margin-top: 25px;
+}
+
+#side{
+    position: absolute;
+    width: 20%;
+    height: 425px;
+    margin-top: 15px;
+    margin-left: 15px;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.1), -8px -8px 8px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+#bt1{
+    position: absolute;
+    width: 975px;
+    height: 200px;
+    border-radius: 100px;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.1), -8px -8px 8px rgba(0,0,0,0.1);
+    border: none;
+    margin-left: 315px;
+    margin-top: 15px;
+    background-color: white;
+}
+
+#bt1pic{
+    position: absolute;
+    height: 180px;
+    width: 180px;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.1), -8px -8px 8px rgba(0,0,0,0.1);
+    border: none;
+    border-radius: 50%;
+    margin-top: 8px;
+    margin-left: 3px;
+}
+
+#bt1note{
+    position: relative;
+    height: 180px;
+    width: 700px;
+    margin-top: 50px;
+    margin-left: 200px;
+    background-color: none;
+}
+
+#bt2{
+    position: absolute;
+    width: 975px;
+    height: 200px;
+    border-radius: 100px;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.1), -8px -8px 8px rgba(0,0,0,0.1);
+    border: none;
+    margin-left: 315px;
+    margin-top: 240px;
+    background-color: white;
+}
+
+#bt2pic{
+    position: relative;
+    height: 180px;
+    width: 180px;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.1), -8px -8px 8px rgba(0,0,0,0.1);
+    border: none;
+    border-radius: 50%;
+    margin-top: 1px;
+    margin-left: 780px;
+}
+
+#bt2note{
+    position: absolute;
+    height: 180px;
+    width: 700px;
+    top: 15px;
+    margin-left: 60px;
+    background-color: none;
+
+}
+
+#bt3{
+    position: absolute;
+    width: 975px;
+    height: 200px;
+    border-radius: 100px;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.1), -8px -8px 8px rgba(0,0,0,0.1);
+    border: none;
+    margin-left: 15px;
+    margin-top: 465px;
+    background-color: white;
+}
+
+#bt3pic{
+    position: relative;
+    height: 180px;
+    width: 180px;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.1), -8px -8px 8px rgba(0,0,0,0.1);
+    border: none;
+    border-radius: 50%;
+    margin-top: 1px;
+    margin-left: 3px;
+}
+
+#bt3note{
+    position: absolute;
+    height: 180px;
+    width: 700px;
+    top: 25px;
+    margin-left: 200px;
+    background-color: none;
+}
+
+#bt4{
+    position: absolute;
+    width: 975px;
+    height: 200px;
+    border-radius: 100px;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.1), -8px -8px 8px rgba(0,0,0,0.1);
+    border: none;
+    margin-left: 15px;
+    margin-top: 690px;
+    background-color: white;
+}
+
+#bt4pic{
+    position: relative;
+    height: 180px;
+    width: 180px;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.1), -8px -8px 8px rgba(0,0,0,0.1);
+    border: none;
+    border-radius: 50%;
+    margin-top: 1px;
+    margin-left: 780px;
+}
+
+#bt4note{
+    position: absolute;
+    height: 180px;
+    width: 700px;
+    top: 30px;
+    margin-left: 60px;
+    background-color: none;
+}
+
+#Hh{
+    margin-top: 8px;
+    margin-left: 7px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.1), 8px 8px 8px rgba(0,0,0,0.1);
+}
+
+#holi{
+    text-align: center;
+}
+
+#holid{
+    margin-left: 6.5px;
+}
+
+#sideone{
+    position: absolute;
+    width: 20%;
+    height: 425px;
+    margin-top: 465px;
+    margin-left: 1020px;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.1), -8px -8px 8px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+#dpic{
+    border-radius: 50%;
+}
+
+#tpa{
+    margin-left: 7px;
+}
+
