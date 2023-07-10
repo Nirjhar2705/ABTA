@@ -103,7 +103,7 @@ body{
     border: none;
     border-radius: 50%;
     margin-top: 1px;
-    margin-left: 70%;
+    margin-left: 75%;
 }
 
 #bt2note{
@@ -174,7 +174,7 @@ body{
 #bt4note{
     position: absolute;
     height: 180px;
-    width: 70%;
+    width: 75%;
     top: 35px;
     margin-left: 60px;
     background-color: none;
