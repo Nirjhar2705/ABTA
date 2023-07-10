@@ -77,7 +77,7 @@ body{
 #bt1note{
     position: relative;
     height: 180px;
-    width: 51.9794872%;
+    width: 73%;
     margin-top: 50px;
     margin-left: 200px;
     background-color: none;
@@ -109,7 +109,7 @@ body{
 #bt2note{
     position: absolute;
     height: 180px;
-    width: 51.9794872%;
+    width: 73%;
     top: 15px;
     margin-left: 60px;
     background-color: none;
@@ -142,7 +142,7 @@ body{
 #bt3note{
     position: absolute;
     height: 180px;
-    width: 51.9794872%;
+    width: 73%;
     top: 25px;
     margin-left: 200px;
     background-color: none;
@@ -174,7 +174,7 @@ body{
 #bt4note{
     position: absolute;
     height: 180px;
-    width: 51.9794872%;
+    width: 73%;
     top: 30px;
     margin-left: 60px;
     background-color: none;
