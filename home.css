@@ -85,12 +85,12 @@ body{
 
 #bt2{
     position: absolute;
-    width: 975px;
+    width: 72.4%;
     height: 200px;
     border-radius: 100px;
     box-shadow: 8px 8px 8px rgba(0,0,0,0.1), -8px -8px 8px rgba(0,0,0,0.1);
     border: none;
-    margin-left: 315px;
+    margin-left: 23.3%;
     margin-top: 240px;
     background-color: white;
 }
@@ -118,12 +118,12 @@ body{
 
 #bt3{
     position: absolute;
-    width: 975px;
+    width: 72.4%;
     height: 200px;
     border-radius: 100px;
     box-shadow: 8px 8px 8px rgba(0,0,0,0.1), -8px -8px 8px rgba(0,0,0,0.1);
     border: none;
-    margin-left: 15px;
+    margin-left: 1.10952381%;
     margin-top: 465px;
     background-color: white;
 }
@@ -150,12 +150,12 @@ body{
 
 #bt4{
     position: absolute;
-    width: 975px;
+    width: 72.4%;
     height: 200px;
     border-radius: 100px;
     box-shadow: 8px 8px 8px rgba(0,0,0,0.1), -8px -8px 8px rgba(0,0,0,0.1);
     border: none;
-    margin-left: 15px;
+    margin-left: 1.10952381%;
     margin-top: 690px;
     background-color: white;
 }
