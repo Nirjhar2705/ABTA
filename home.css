@@ -21,7 +21,7 @@ body{
     position: absolute;
     height: 190px;
     width: 190px;
-    margin-left: 83.3%;
+    margin-left: 82%;
     margin-top: 7px;
     margin-right: 10px;
     border-radius: 10px;
@@ -175,7 +175,7 @@ body{
     position: absolute;
     height: 180px;
     width: 75%;
-    top: 35px;
+    top: 40px;
     margin-left: 15px;
     background-color: none;
 }
