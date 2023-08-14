@@ -78,10 +78,12 @@ body{
 
 #testp{
     width: 100%;
-    height: 100px;
+    height: 150px;
     border-radius: 10px;
     padding: 2%;
-    display: inline-block;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 #testp{
